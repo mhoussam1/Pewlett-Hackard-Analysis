@@ -46,7 +46,16 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 
 - There is not enough qualified mentors to be able to reach the potential needed. there will need to be changes in the requirments such as changing the age requirment to be able to get nmore mentors ready. 
 
+## Two additional queries
 
+### Mentorship participants department view
+
+<img width="490" alt="Screen Shot 2021-12-19 at 3 04 54 PM" src="https://user-images.githubusercontent.com/93894964/146690730-546e27df-6f34-40d1-b5d6-280b82270b3d.png">
+
+
+### Retiring employee's department gaps
+
+<img width="703" alt="Screen Shot 2021-12-19 at 3 04 11 PM" src="https://user-images.githubusercontent.com/93894964/146690739-863a8511-bdf3-4ca3-8612-aa49e8a79338.png">
 
 
 
