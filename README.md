@@ -8,21 +8,44 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 
 ### Purpose
 
-Deliverable 1: The Number of Retiring Employees by Title
-Deliverable 2: The Employees Eligible for the Mentorship Program
-Deliverable 3: A written report on the employee database analysis 
+- Deliverable 1: The Number of Retiring Employees by Title
+- Deliverable 2: The Employees Eligible for the Mentorship Program
+- Deliverable 3: A written report on the employee database analysis 
 
 
 ## Results
 
-### Analysis of Outcomes Based on Launch Date
+## Employees eligiable for retirement:
+
+
+<img width="483" alt="Screen Shot 2021-12-19 at 2 47 49 PM" src="https://user-images.githubusercontent.com/93894964/146690337-ffe156df-3904-4612-97c6-491f0bc3c6ba.png">
+
+- As seen from the results in the table above we can see that there is a big percentage of people that are eligble for retierment at 30%. 
+- The biggeset job title is senior engineer, as it is losing around twenty nine thousand. 
+
+## Employees eligiable for mentorship program:
+
+
+
+<img width="482" alt="Screen Shot 2021-12-19 at 2 48 23 PM" src="https://user-images.githubusercontent.com/93894964/146690348-09b18303-a1f9-4cdb-996e-7724effedcdf.png">
+
+- There were only 1549 employees that met the mentorship requirments.
+- There is a huge difference of how many employees reaching the retierment requirments than the mentorship, with more than eighty eight thousand more employees. 
+
+
+
 
 ## Summary 
+
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+
+- If employees were to retire at the age of 65, there would be roughly 22,600  leaving the company each year.
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 
-### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
 
 
 
