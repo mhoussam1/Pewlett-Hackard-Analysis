@@ -44,7 +44,7 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-
+- There is not enough qualified mentors to be able to reach the potential needed. there will need to be changes in the requirments such as changing the age requirment to be able to get nmore mentors ready. 
 
 
 
